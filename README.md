@@ -1,1 +1,15 @@
-# learning-journey
+# Learning Journey
+
+### Dec 2021 - App Academy Open
+
+After doing a lot of research about which course to pursue I found 4 extremely promising options: Colt Steeles Udemy webdev course, Amanda Yu's Udemy webdev course, The Odin Project or App Academy Open. I also ran into a really well set up guide from P1xt over at https://github.com/P1xt/p1xt-guides for learning CS, programming and even specializing in webdev. P1xt recommends App Academy, and I even talked to her about it on Twitter and she convinced me it was the way to go so I decided to give it a shot. However, I was constantly anxious about learning Ruby since my end goal was going to be JavaScript. AppAcademy Open is absolutely incredible, and the thing I love about it the most is that it really pounds the fundamentals into you by making you do sooo many fundamental programming exercises. I wish every programming course just made you do this many exercises because I really do think it's the best way for beginners to learn. Unfortunately, I was still anxious about learning Ruby and decided that for 2022 I will just fully focus on JavaScript.
+
+### Nov 2021 - CS50x
+
+Decided to research more into learning paths and heard about CS50x as a great introductory course. Was planning and doing 1 hour a night and then it ended up being way more difficult than expected and had to spend much more time than I intended. This was good, as it kinda inspired me to put more time into learning when it comes to programming. I was immersing myself a lot more in programming and realized while I'm interested in lots of disciplines - AI, game dev, ML and others... I decided to start my journey with web development. The reason being is that my regular job (while I absolutely love it) is not very stable and while immersing myself within programming felt like web dev would be the best choice to open up opportunites if my regular job didn't keep paying the bills. Once CS50x got to the HTMl/CSS/JS portion, I decided to move onto another course (AppAcademy Open) which was more focused on webdev instead of finishing off CS50x.
+
+CS50x tldr review: Fantastic course. The instructor is so passionate about programming and really comes through in his lectures. While I actually do think this course may be too difficult for complete beginners - it definitely really inspires you because of how well the lectures are done. I think if I hadn't messed around with programming a little bit before this course I would've struggled massively to get through it. If you're completely new to programming, i'd recommend doing a super easy course for 2 weeks to a month first just to get familiar with super basic programming, maybe a really easy python course or something.
+
+### Mid 2021 - Messing around
+
+Wanted to learn programming as a challenge. Felt like I wasn't being challenged enough mentally with my regular job and just wanted something to learn to stimulate my mind. I did some Python course for a few days which I don't remember which it was and then learned some C# through Head First C# by O'Reilly and the C# path on pluralsight. I was incosistent and ended up forgetting almost all of the knowledge I learned during this period as work picked up and I couldn't spend much time learning.
